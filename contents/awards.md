@@ -1,13 +1,7 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- American College Student Mathematical Modeling Competition Honorable Mention, 2025.
+- Tongyi Qianwen Qwen Technology Application Essay Individual Third Prize, 2025.
+- ZTE Moon-Holding Global Challenge Regional Outstanding Award, 2025.
+- Third-prize Scholarship of SYSU, 2024.
+- Third-prize Scholarship of SYSU, 2023.
+- China College Student Mathematical Modeling Competition Provincial Third Prize, 2023.
+- China College Student Statistical Modeling Competition Provincial Third Prize, 2023.

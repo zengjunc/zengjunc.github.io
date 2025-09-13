@@ -20,4 +20,5 @@
 [//]: # ()
 [//]: # (- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu &#40;2021&#41;. MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]]&#40;https://doi.org/10.1109/LCOMM.2021.3081593&#41;)
 
-- Two papers are currently under submission (WISA and PKDD)
+- One papers are currently under submission (Neural Network)
+- DiffSTRec: A Diffusion-Based Framework for Spatiotemporal Next POI Recommendation has recently been accepted by WISA
